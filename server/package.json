@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend practice",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meghana610/expressSetup9.git"
+  },
+  "keywords": [
+    "try",
+    "catch"
+  ],
+  "author": "Meghana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghana610/expressSetup9/issues"
+  },
+  "homepage": "https://github.com/meghana610/expressSetup9#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
